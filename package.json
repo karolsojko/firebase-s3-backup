@@ -1,0 +1,14 @@
+{
+  "name": "firebase-gdrive",
+  "version": "1.0.0",
+  "description": "Firebase Backup to Google Drive script",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.4.1",
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7"
+  }
+}

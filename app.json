@@ -1,0 +1,6 @@
+{
+  "name": "Firebase Backup",
+  "description": "Firebase Backup script",
+  "image": "heroku/nodejs",
+  "addons": []
+}
